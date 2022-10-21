@@ -1,0 +1,12 @@
+import random
+x=randint(1,100)
+if (x>50):
+    print ("Alarm is on")
+else:
+    print ("Alarm is off")
+y=randint(1,100)
+if (y>50):
+    print ("Alarm is on")
+else:
+    print ("Alarm is off")
+    
